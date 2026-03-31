@@ -1,4 +1,4 @@
-# Hello, I'm Chardium :shipit:
-:octocat: Build things sometimes
-## 📫 How to Reach Me
- 🎮 Discord: *chardium1*
+# Hello, I'm ChardXBT :shipit:
+:octocat: Build things sometimes :shipit:
+## How to Reach Me
+   Discord: *chardium1* :shipit:

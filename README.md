@@ -14,6 +14,6 @@ Some things I’ve made:
 
 A fair amount of what I build is private. That is partly because real projects tend to accumulate account details, operational data, and market logic that stops being useful the moment it becomes public. The public repos show the engineering; the private ones contain the parts that would make their own job harder if they escaped.
 
-More: [ericsong.tech](https://ericsong.tech)
+Site: [ericsong.tech](https://ericsong.tech)
 
 Contact: [ericy.song@mail.utoronto.ca](mailto:ericy.song@mail.utoronto.ca)

@@ -4,10 +4,11 @@ I study Mathematics and Statistics at the University of Toronto. I build automat
 
 ## Cool things I made
 
-- [Bot Supervisor](https://github.com/ChardXBT/bot-supervisor) — keeps my marketplace bots and scheduled jobs running safely from one Windows 11 terminal.
-- [CS2 Marketplace Trading System](https://github.com/ChardXBT/CS2-Marketplace-Trading-System) — buy orders, marketplace watches, and inventory automation. Around $2.5K in profit.
-- [Runway](https://github.com/ChardXBT/Runway) — helps Qlob find and write image-based YouTube Community posts, while the creator keeps the final say.
-- [Stacklight](https://github.com/ChardXBT/stacklight-wallpaper) — a lightweight arcade stacker that lives in my Windows desktop background.
+- [Appraisal Map](https://github.com/Teamhousing123/appraisal-map): A secure map-first workspace for property appraisal records, documents, and 200+ indexed reports.
+- [CS2 Marketplace Trading System](https://github.com/ChardXBT/CS2-Marketplace-Trading-System): Marketplace automation for buy orders, price watches, and inventory that has made around $2.5K in profit.
+- [Runway](https://github.com/ChardXBT/Runway): A human-directed system that plans Qlob’s image-based YouTube Community posts without taking the final decision away from the creator.
+- [Bot Supervisor](https://github.com/ChardXBT/bot-supervisor): One Windows 11 manager that safely runs my bots, scheduled jobs, and recovery checks.
+- [ericsong.tech](https://github.com/ChardXBT/personal_website): My interactive portfolio, built as a project experience instead of a wall of links.
 
 A fair amount of what I build is private. That is partly because real projects tend to accumulate account details, operational data, and market logic that stops being useful the moment it becomes public. The public repos show the engineering; the private ones contain the parts that would make their own job harder if they escaped.
 

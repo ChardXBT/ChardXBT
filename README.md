@@ -1,6 +1,6 @@
 # Hey, I'm Eric.
 
-I study Mathematics and Statistics at the University of Toronto. I build automation, data tools, and random things I wish existed, usually to save time, solve an annoying problem, or make my computer do the boring part. I like useful software that quietly does its job while I sleep.
+I study Mathematics and Statistics at the University of Toronto. I build automation, data tools, and random things I wish existed, usually to save time, solve an annoying problem, or make my computer do the boring part.
 
 ## Cool things I made
 

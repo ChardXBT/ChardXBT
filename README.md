@@ -10,7 +10,7 @@ I study Mathematics and Statistics at the University of Toronto. I build automat
 - [Bot Supervisor](https://github.com/ChardXBT/bot-supervisor): One Windows 11 manager that safely runs my bots, scheduled jobs, and recovery checks.
 - [ericsong.tech](https://github.com/ChardXBT/personal_website): My interactive portfolio, built as a project experience instead of a wall of links.
 
-A fair amount of what I build is private. That is partly because real projects tend to accumulate account details, operational data, and market logic that stops being useful the moment it becomes public. The public repos show the engineering; the private ones contain the parts that would make their own job harder if they escaped.
+A fair amount of what I build is private. That is partly because well if my strategies were public that would make it quite meaningless:P
 
 Site: [ericsong.tech](https://ericsong.tech)
 

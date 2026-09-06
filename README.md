@@ -1,6 +1,6 @@
 # Hey, I'm Eric.
 
-I study Mathematics and Statistics at the University of Toronto. I automate everything I can.
+I study Mathematics and Statistics at the University of Toronto. I build solutions to the many annoying problems I find myself having. 
 
 ## Cool things I made
 
@@ -10,7 +10,7 @@ I study Mathematics and Statistics at the University of Toronto. I automate ever
 - [Bot Supervisor](https://github.com/ChardXBT/bot-supervisor): Runs all my projects even when I sleep, 24/7/365
 - [ericsong.tech](https://github.com/ChardXBT/personal_website): My attempt at a cool site :)
 
-A fair amount of what I build is private. That is partly because well if my strategies were public that would make it quite meaningless :P
+A fair amount of what I build is private. That is partly because well if my strategies were public that would make them quite useless :P
 
 Site: [ericsong.tech](https://ericsong.tech)
 

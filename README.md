@@ -1,6 +1,6 @@
 # Hey, I'm Eric.
 
-I study Mathematics and Statistics at the University of Toronto. I will try and automate everything. Loving trying new stuff 
+I study Mathematics and Statistics at the University of Toronto. I will automate everything. Loving trying new stuff 
 
 ## Cool things I made
 
